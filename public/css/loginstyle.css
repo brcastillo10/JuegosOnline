@@ -1,3 +1,20 @@
+/*Estilos del body*/
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #ececec;
+}
+/*Barra de navegacion osea el nav*/
+header{
+    background: #ffffff;
+}
+.box-area{
+    width: 930px;
+}
+
+.right-box{
+    padding: 40px 30px 40px 40px;
+}
+
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
