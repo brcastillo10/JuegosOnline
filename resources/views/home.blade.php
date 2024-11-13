@@ -61,9 +61,9 @@
                     <div class="card">
                         <img src="/images/prueba3.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                          <h5 class="card-title">Palabra Mágica</h5>
+                          <h5 class="card-title">Completar Trazos</h5>
                           <p class="card-text">Aqui tendras que...</p>
-                          <a href="/completa_palabra" class="btn btn-primary">Jugar</a>
+                          <a href="/completa_trazos" class="btn btn-primary">Jugar</a>
                         </div>
                       
                     </div>
@@ -72,7 +72,7 @@
                     <div class="card">
                         <img src="/images/prueba3.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                          <h5 class="card-title">Creación de Historia</h5>
+                          <h5 class="card-title">Ordenar Palabra</h5>
                           <p class="card-text">Aqui tendras que...</p>
                           <a href="/completa_palabra" class="btn btn-primary">Jugar</a>
                         </div>
